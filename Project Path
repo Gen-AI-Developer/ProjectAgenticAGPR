@@ -1,0 +1,3 @@
+project created:
+installing fastapi uv add "fastapi[standard]"
+uploading and embedding of documents.
